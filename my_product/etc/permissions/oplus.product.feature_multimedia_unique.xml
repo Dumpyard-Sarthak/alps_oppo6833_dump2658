@@ -1,0 +1,19 @@
+<oplus-config>
+    <!-- HanGaojun@MULTIMEDIA.DISPLAY.SERVICE, 2020/06/19, Add for display feature start -->
+    <oplus-feature name="oplus.software.display.screen_gloablehbm_support" />
+    <oplus-feature name="oplus.software.display.multibits_dimming_support" />
+    <oplus-feature name="oplus.software.display.autobrightctl_animation_support" />
+    <oplus-feature name="oplus.software.display.autolight_psensor_notsupport" />
+    <!--oplus-feature name="oplus.software.fingeprint_optical_enabled" /-->
+    <oplus-feature name="oplus.software.display.screen_heteromorphism" />
+    <oplus-feature name="oplus.software.display.multi_device_decrease_refresh_rate" />
+    <oplus-feature name="oplus.software.display.screen_defaultsmartmode" />
+    <oplus-feature name="oplus.software.display.refreshrate_default_smart" />
+    <oplus-feature name="oplus.software.display.dynamic_fps_switch" />
+    <!-- HanGaojun@MULTIMEDIA.DISPLAY.SERVICE, 2020/06/19, Add for display feature end -->
+    <!-- Huade.Zhou@MULTIMEDIA.AUDIOSERVER.BASE/2020/10/28. Add for dualheadphone feature-->
+    <oplus-feature name="oplus.software.audio.dualheadphone"/>
+    <oplus-feature name="oplus.software.audio.dualheadphone.lite"/>
+    <oplus-feature name="oplus.software.display.colormode_support" />
+    <oplus-feature name="oplus.software.display.mtkcolormode_support" />
+</oplus-config>

@@ -1,0 +1,25 @@
+<oplus-config>
+    <!-- RF Begin -->
+    <oplus-feature name="oplus.software.radio.sar.earpiece.detect.support" />
+    <!-- RF End -->
+
+    <!-- Asiga@NETWORK.POWER.26376, 2020/04/27, modify for Feature Toggle -->
+    <oplus-feature name="oplus.software.radio.nwpower_static_netcontroller_enabled" />
+    <oplus-feature name="oplus.software.radio.nwpower_static_netcontroller_screen_on_enabled" />
+
+    <!-- ZhuangYunteng@NETWORK.REG.249851, 2020/10/30, add for smart5g-sa -->
+    <oplus-feature name="oplus.software.radio.smart5g_sa_enabled"/>
+
+    <!-- PengHao@NETWORK.DATA.8124, 2020/05/08, Add for network quality evaluation.OPLUS_FEATURE_DATA_EVAL -->
+    <oplus-feature name="oplus.software.radio.data_eval" />
+
+    <!-- WangJianwei@NETWORK.REG.313285, 2020/09/30, add for dual 5g Enable-->
+    <oplus-feature name="oplus.software.radio.support_dual_nr"/>
+
+    <!-- ZhaoKai@NETWORK.DATA.1256389, 2018/1/26 -->
+    <oplus-feature name="oplus.software.radio.data_hongbao"/>
+    <!-- XieMengDi@NETWORK.DATA.411272, 2020/11/10, modify for game paging optimization -->
+    <oplus-feature name="oplus.software.radio.game_paging"/>
+    <!-- ZhuNian@NETWORK.DATA, 2020/09/11, bugid:276081 -->
+    <oplus-feature name="oplus.software.radio.game_err"/>
+</oplus-config>

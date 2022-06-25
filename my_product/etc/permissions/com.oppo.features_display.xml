@@ -1,0 +1,20 @@
+
+<permissions>
+    <feature name="oppo.feature.216A0" />
+    <feature name="oppo.eyeprotect.support" />
+    <!-- <!-\-<feature name="oppo.autolight.userotate.support" />-\-> -->
+    <!-- <feature name="oppo.appautoresolution.support" /> -->
+    <feature name="oppo.multibits.dimming.support" />
+    <feature name="oppo.autobrightctl.animation.support" />
+    <!-- Shang.RuoFan@PSW.MM.Display.AOD, 2020/06/09, Add for AOD -->
+    <feature name="oppo.display.screen.gloablehbm.support" />
+    <feature name="oppo.high.brightness.support" />
+    <!-- <feature name="oppo.roundcorner.support" /> -->
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <feature name="oppo.autolight.psensor.notsupport" />
+    <!-- Liu.Jie@PSW.MM.Display.DS.brightness, 2020/3/10, Add for autobrightness -->
+    <feature name="oppo.brightness.mode.automatic" />
+    <feature name="oppo.multi.device.decrease.refresh.rate" />
+    <feature name="oppo.display.screen.defaultsmartmode" />
+    <feature name="oppo.display.screen.90hz.support" />
+</permissions>

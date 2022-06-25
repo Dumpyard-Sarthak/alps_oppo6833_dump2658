@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+    <!--qiuqi@ANDROID.SYTEMUI, 2021/06/30, Add for support alexa tile-->
+    <app_feature name="com.android.systemui.support.alexa"/>
+</extend_features>

@@ -1,0 +1,9 @@
+<oplus-config>
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive ext -->
+    <oplus-feature name="oplus.software.keep_alive_ext" />
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+    <!-- Guofu.Yang@ANDROID.WMS.2458273, 2020/08/13, Add for app resolution switch -->
+    <oplus-feature name="oplus.software.app_resolution_switch" />
+    <!-- steve.shen@OPTI, 2021/03/12, Add for animation scroll opt -->
+    <oplus-feature name="oplus.software.scroll.animation_opt" />
+</oplus-config>
